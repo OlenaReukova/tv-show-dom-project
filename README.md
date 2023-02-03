@@ -1,4 +1,4 @@
-#[TV Show Live Demo](https://cyf-olenareukova-tv.netlify.app/)
+[TV Show Live Demo](https://cyf-olenareukova-tv.netlify.app/)
 
 # TV Show DOM Project
 
