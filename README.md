@@ -1,4 +1,4 @@
-[#TV Show Live Demo](github.com/OlenaReukova/tv-show-dom-project)
+[#TV Show Live Demo](https://cyf-olenareukova-tv.netlify.app/)
 
 # TV Show DOM Project
 
