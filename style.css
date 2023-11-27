@@ -60,4 +60,5 @@ p {
 }
 img {
   box-shadow: 0 0 10px 5px white;
+  width: 400px;
 }
