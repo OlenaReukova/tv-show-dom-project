@@ -12,8 +12,9 @@ body {
   margin: 2rem 2rem;
   background-image: url('movie.jpg');
   background-repeat: no-repeat;
+  background-size: cover;
   background-attachment: fixed;
-  background-size: contain;
+  /* background-size: contain; */
   font-size: 14px;
   line-height: 1.5;
   font-weight: 400;
