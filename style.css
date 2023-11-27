@@ -10,7 +10,10 @@ body {
   max-width: 1290px;
   height: 100%;
   margin: 2rem 2rem;
-  background-color: black;
+  background-image: url('movie.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: contain;
   font-size: 14px;
   line-height: 1.5;
   font-weight: 400;
@@ -31,6 +34,8 @@ header {
 p {
   font-size: 1.4rem;
   width: 400px;
+  color: black;
+  background-color: white;
 }
 #search-input {
   color: white;
