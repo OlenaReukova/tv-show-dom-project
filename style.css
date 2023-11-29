@@ -63,3 +63,23 @@ img {
   box-shadow: 0 0 10px 5px white;
   width: 400px;
 }
+@media (max-width: 575.98px) {
+  #select-input {
+    padding: 20px 20px;
+    font-size: 1.2rem;
+  }
+  #search-input {
+    padding: 20px 20px;
+    font-size: 1.2rem;
+  }
+}
+@media (max-width: 767.98px) {
+  #select-input {
+    padding: 20px 20px;
+    font-size: 1.4rem;
+  }
+  #search-input {
+    padding: 20px 20px;
+    font-size: 1.4rem;
+  }
+}
